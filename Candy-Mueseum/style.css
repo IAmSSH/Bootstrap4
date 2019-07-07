@@ -1,0 +1,43 @@
+/* nav .navbar-brand{
+    font-weight: 100;
+    font-size: 1.2rem;
+} */
+*{
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+}
+body{
+    background-color: #f5d9d5 !important;
+}
+nav{
+    font-weight: 100;
+    font-size: 1.2rem;
+}
+
+.container-fluid h1{
+    font-weight: 100;
+    color: white;
+}
+
+#hand-img{
+    padding: 0;
+}
+
+p{
+    line-height: 2rem;
+    font-size: 1rem;
+}
+
+div h1 span{
+    color: #EA1C2C;;
+}
+
+div h2{
+    font-size: 1.5rem;
+}
+
+@media(max-width: 1200px) {
+    .row h1{
+        font-size: 3rem;
+    }
+}
